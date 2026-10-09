@@ -115,13 +115,13 @@ git status
 ```
 
 <div class="slide-caption mt-6">
-The dashboard now reportas detected.
+The dashboard nos detected.
 </div>
 
 
 <div class="slide-note mt-6">
 <span class="slide-note-title">Reading git status</span>
-Status is the fastest way to answer one question: <i>is what I see on screen the same as
+Status is the fastest way to anse question: <i>is what I see on screen the same as
 what Git recorded?</i> Three words cover most of it — <b>clean</b>, <b>modified</b>,
 <b>staged</b>. Learn tog else.
 </div>
