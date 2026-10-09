@@ -6,7 +6,9 @@
 
 ## What is missing
 
- launch was filed in the archive that morning and
+
+The final brie launch was filed in the archive that morning and
+
 then disappeared from the records. Nobody can say who signed it off, or who received the
 sealed copy afterwards.
 
