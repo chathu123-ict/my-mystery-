@@ -25,7 +25,7 @@ edited. The other travelled with a courier.
 These four lines are the case record. Both leads change only the first one.
 
 - Final briefing sign-off: PENDING
-- Sign-off recovered from history: not yet
+- Sign-m history: not yet
 - Sealed copy recovered from courier manifest: not yet
 - Conclusion: not yet
 
