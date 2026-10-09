@@ -22,7 +22,7 @@ Case FB-01 · the missing final briefing
 
 <div class="slide-caption mt-8">
 Slides teach one concept right before the action that needs it.<br>
-Your progress, current mission, and checkpoint live on the dashboard at
+Your progress, the dashboard at
 <b>127.0.0.1:3031</b>.
 </div>
 
@@ -115,7 +115,7 @@ git status
 ```
 
 <div class="slide-caption mt-6">
-The dashboard now reports this checkout as detected.
+The dashboard now reportas detected.
 </div>
 
 
@@ -123,7 +123,7 @@ The dashboard now reports this checkout as detected.
 <span class="slide-note-title">Reading git status</span>
 Status is the fastest way to answer one question: <i>is what I see on screen the same as
 what Git recorded?</i> Three words cover most of it — <b>clean</b>, <b>modified</b>,
-<b>staged</b>. Learn to read this line before you read anything else.
+<b>staged</b>. Learn tog else.
 </div>
 
 ---
