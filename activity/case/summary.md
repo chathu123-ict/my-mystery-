@@ -6,7 +6,9 @@
 
 ## What is missing
 
+
 The final brie launch was filed in the archive that morning and
+
 then disappeared from the records. Nobody can say who signed it off, or who received the
 sealed copy afterwards.
 
@@ -18,7 +20,7 @@ edited. The other travelled with a courier.
 1. Recover the sign-off detail from the repository history.
 2. Record your first finding in `findings.md`.
 3. Prepare two competing leads, one from each surviving fragment, as separate branches.
-4. Propose one conclusion that carries both facts, and merge it.
+4. Propose arries both facts, and merge it.
 
 ## Case record
 
